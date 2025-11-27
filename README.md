@@ -1,1 +1,1 @@
-# Generate-passwords-and-save-them-in-a-database
+# Generate-passwords
